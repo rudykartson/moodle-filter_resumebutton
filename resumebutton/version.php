@@ -11,3 +11,8 @@ $plugin->version = 2025072302;
 $plugin->requires = 2022041900; // Moodle 4.0+
 $plugin->maturity = MATURITY_STABLE;
 $plugin->release = '1.1';
+
+// Declare dependency on local_resume plugin
+$plugin->dependencies = [
+    'local_resume' => 2025071100 // Replace with actual version of local_resume if needed
+];
