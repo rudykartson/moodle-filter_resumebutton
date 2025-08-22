@@ -1,4 +1,11 @@
 <?php
+
+/**
+ * @package     filter_resumebutton
+ * @copyright   2025 Rudraksh Batra <batra.rudraksh@gmail.com>
+ * @license     http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+ */
+
 $string['pluginname'] = 'Resume Button Shortcode Filter';
 $string['filtername'] = 'Resume Button Shortcode';
 
