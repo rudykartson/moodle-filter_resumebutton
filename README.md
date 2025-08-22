@@ -1,5 +1,11 @@
 # Moodle Plugin: filter_resumebutton
 
+/**
+ * @package     filter_resumebutton
+ * @copyright   2025 Rudraksh Batra <batra.rudraksh@gmail.com>
+ * @license     http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+ */
+
 **Embed Resume or Start Again Button Anywhere in Moodle Using Shortcodes**
 
 This filter plugin allows you to embed **resume buttons** for Moodle courses or sections using a simple shortcode syntax. It works in combination with the `local_resume` plugin and provides a dynamic, personalized experience for learners to continue where they left off.
